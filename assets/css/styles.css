@@ -1,10 +1,11 @@
 /* styles.css */
+
 h1 {
-  font-size: 550em
+  font-size: 550;
   color: hotpink;
 }
 
 p {
-  font-size: 400em
+  font-size: 400;
   color: magenta;
 }
