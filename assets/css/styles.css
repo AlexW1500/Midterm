@@ -3,7 +3,7 @@
 h1 {
   font-family: "Dancing Script", cursive;
   font-optical-sizing: auto;
-  font-weight: <550>;
+  font-weight: <200>;
   font-style: normal;
   font-size: 100em;
   color: hotpink;
@@ -11,7 +11,7 @@ h1 {
 
 p {
   font-family: "Bebas Neue", sans-serif;
-  font-weight: 400;
+  font-weight: 200;
   font-style: normal;
   font-size: 50em;
   color: magenta;
