@@ -1,21 +1,13 @@
 /* styles.css */
 h1 {
-    // <weight>: 550;
-// <uniquifier>: css;
-
-.dancing-script-<uniquifier> {
   font-family: "Dancing Script", cursive;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: <550>;
   font-style: normal;
-}
 }
 
 p {
-  .bebas-neue-regular {
   font-family: "Bebas Neue", sans-serif;
   font-weight: 400;
   font-style: normal;
-}
-  
 }
